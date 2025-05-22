@@ -1,0 +1,36 @@
+
+
+.container1
+{
+    background-color: rgb(71, 197, 132);
+    box-shadow: 3px 1px 3px 1px;
+    color: aliceblue;
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    width: 50%;
+    cursor: pointer;
+    align-items: center;
+    text-align: center;
+
+
+}
+.li
+{
+    list-style:none;
+    display: flex;
+    justify-content: space-between;
+}
+/* .smallCon
+{
+    display: flex;
+    justify-content: space-between;
+
+} */
+
+ /* .bigc
+{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}  */

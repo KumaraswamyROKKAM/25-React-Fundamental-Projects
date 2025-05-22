@@ -1,0 +1,52 @@
+.containerP91 
+{
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-color: aqua;
+}
+.P91TabCon
+{
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    padding: 20px;
+}
+.P91TabCon button
+{
+    border: none;
+    outline: none;
+    color:aliceblue;
+    
+    padding: 10px;
+    border-radius: 8px;
+
+
+}
+.tabButton
+{
+    background-color: rgb(69, 197, 49);
+}
+
+
+
+
+
+
+
+
+
+
+.P91Content
+{
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 2rem;
+    margin-bottom: 30px;
+}
+.tabActiveButton
+{
+    background-color: rgb(8, 86, 33);
+}

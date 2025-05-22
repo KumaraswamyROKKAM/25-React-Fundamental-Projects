@@ -1,0 +1,66 @@
+.containerP10
+{
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    background-color: aquamarine;
+}
+.containerP10 button{
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    padding: 6px;
+}
+.containerP101
+{
+    background-color: rgb(23, 56, 56);
+    width: 90%;
+    margin: 20px;
+    color: aliceblue;
+    padding: 20px;
+}
+.P10Header
+{
+    background-color:rgb(32, 83, 83);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    font-size: 1.4rem;
+    margin-bottom: 2px;
+
+}
+.P10Header button
+{
+    background-color: rgb(37, 96, 96);
+    border: none;
+    outline: none;
+    width: 2rem;
+    padding: 0;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.P10Header button:hover{
+    background-color:rgb(18, 46, 46) ;
+}
+.P10Body
+{
+    background-color:rgb(32, 83, 83);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    font-size: 1.4rem;
+    margin-bottom: 2px;
+
+}
+.P10Footer
+{
+    background-color:rgb(32, 83, 83);
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    font-size: 1.4rem;
+
+}

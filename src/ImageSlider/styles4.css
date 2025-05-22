@@ -1,0 +1,93 @@
+
+.container
+{
+    position: relative;
+    width: 38rem;
+    height: 25rem;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+li
+{
+    list-style-type:none;
+}
+img
+{
+    width: 38rem;
+    height: 25rem;
+    
+   
+
+}
+.arrow
+{
+    position: absolute;
+    color: aliceblue;
+    width: 2rem;
+    height: 2rem;
+    cursor: pointer;
+   
+}
+.leftArrow
+{
+    left: 1rem;
+}
+.rightArrow
+{
+    right: 1rem;
+}
+.leftArrow:hover
+{
+    color: rgb(201, 204, 206);
+}
+.rightArrow:hover
+{
+    color: rgb(201, 204, 206);
+}
+.circle-Indicators
+{
+    position: absolute;
+    display: flex;
+
+   align-items: center;
+   justify-content: center;
+    gap: 3px;
+    bottom: 1rem;
+    width: 20rem;
+    height: 1rem;
+   
+}
+.currentButton
+{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: rgb(139, 127, 127);
+   
+    
+}
+.hideButton
+{
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    background-color: rgb(255, 255, 255);
+   
+}
+.inActiveImage
+{
+    display: none;
+}
+.hideButton:hover
+{
+    background-color: rgb(197, 192, 192);
+}

@@ -1,0 +1,36 @@
+.containerP-5
+{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    margin: 1px;
+    gap: 1rem;
+    width: 100%;
+    margin-right: 10px;
+    
+    
+}
+.photos
+{
+   width: 100%;
+}
+.LoadBtn
+{
+    outline: none;
+    border: none;
+    background-color: rgb(118, 174, 33);
+    color: aliceblue;
+    font-weight: bold;
+    padding: 10px;
+    cursor: pointer;
+    margin: 10px;
+
+}
+.LoadBtn:hover
+{
+    background-color: green;
+}
+.EndMessage
+{
+    color: rgb(54, 174, 54);
+    font-weight: bold;
+}

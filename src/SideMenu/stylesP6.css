@@ -1,0 +1,26 @@
+.itemPlus
+{
+    display: flex;
+    gap:1rem;
+    margin-bottom: 10px;    
+    
+}
+.TreeView-container
+{
+    background-color: rgb(29, 29, 116);
+    color: aliceblue;
+    width: 99.86%;
+    height: 100%;
+    padding: 10px;
+   
+    font-size: 1.5rem;
+    cursor: pointer;
+    
+}
+.TreeView-container1
+{
+    width: 100%;
+    height: 25rem;
+    margin-left: -10px;
+    background-color: rgb(29, 29, 116);
+}
