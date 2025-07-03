@@ -39,7 +39,7 @@ const LoadMore = ()  =>
 
     return(
         <div>
-            <h1><center>Project 5</center></h1>
+            <h1><center>Project 5 (LoadMore)</center></h1>
             {loading ? <div><center><h3>Loading...</h3></center></div>:null}
         <div className='containerP-5'>
             {list.map((eachItem,index)=>

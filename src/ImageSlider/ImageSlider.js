@@ -48,7 +48,7 @@ const ImageSlider = () =>
     return(
 
        <div >
-       <center><h1>Project 4</h1></center>
+       <center><h1>Project 4 (ImageSlider)</h1></center>
 
         <div>
             <input type="text" name="limit" id="limit" value={limit} placeholder="Enter limit" onChange={(e)=>setLimit(e.target.value)}></input>

@@ -21,7 +21,7 @@ const RatingStar = ({noOfStars}) =>
     return(
         <div>
             <center>
-                <h1>Project 3</h1>
+                <h1>Project 3 (RatingStar)</h1>
             </center>
         
         <div>

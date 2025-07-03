@@ -7,6 +7,9 @@ import React,{useState} from 'react'
 
     return(
         <div>
+            <div>
+               <center> <h1>Project 11 (Show More or Less)</h1></center>
+            </div>
             {text.length <= 100 ? <div>{text}</div>:<div>
             {expanded ?<p>{text}</p>:<div>
                 <p>{text.substring(0,100)}...</p></div>}

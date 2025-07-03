@@ -32,7 +32,7 @@ const Accordian = () =>
     }
     return(
         <div>
-            <center><h1>Project 1</h1></center>
+            <center><h1>Project 1 (Accordian)</h1></center>
             <div>
                 <center>
                     <div >

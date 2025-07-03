@@ -5,7 +5,7 @@ const TreeView = () =>
 {
     return(
         <div>
-          <center> <h1>Project 6</h1></center>
+          <center> <h1>Project 6 (TreeView)</h1></center>
         <div className="TreeView-container1">
         <div className="TreeView-container">
         <MenuItem list={DataMenu}/>
